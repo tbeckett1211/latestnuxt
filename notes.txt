@@ -8,3 +8,19 @@ To test electron app
 to package app:
     npm run build
     npm run package
+
+
+-- pulling down from GH
+nvm install
+nvm use 
+    -- version should be 24.4.0
+
+npm ci instead of npm i
+
+
+
+-- adding a new package
+install it
+Remove ^ in package.json.
+Run npm install again
+commit changes
