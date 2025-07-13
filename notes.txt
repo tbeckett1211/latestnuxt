@@ -1,0 +1,10 @@
+To see in browser only
+npm run dev
+
+To test electron app
+    npm run dev (1st terminal)
+    npm run start (2nd terminal)
+
+to package app:
+    npm run build
+    npm run package
